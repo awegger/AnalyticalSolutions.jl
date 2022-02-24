@@ -1,0 +1,13 @@
+name = "AnalyticalSolutions"
+uuid = "ff1b4f9d-e9e3-48fa-b634-1361bc40cd0d"
+authors = ["Adrian Egger <ae.ethz@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
