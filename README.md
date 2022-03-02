@@ -1,13 +1,11 @@
 # DISCLAIMER
 The following is currently a testing/tutorial/learning package
-and is therefore non-functional until further notice.
+and is therefore neither functional nor accurate until further notice.
 
 # AnalyticalSolutions
 
-# Tags
-- Documentation
-- Zenodo / DOI
-
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://awegger.github.io/AnalyticalSolutions.jl/dev/)
+[![DOI](https://zenodo.org/badge/58516043.svg)](https://zenodo.org/badge/latestdoi/58516043)
 [![Build Status](https://github.com/awegger/AnalyticalSolutions.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/awegger/AnalyticalSolutions.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/awegger/AnalyticalSolutions.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/awegger/AnalyticalSolutions.jl)
 
