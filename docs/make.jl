@@ -1,4 +1,4 @@
-using misc
+using analyticalSolutions
 using Documenter
 
 DocMeta.setdocmeta!(analyticalSolutions, :DocTestSetup, :(using analyticalSolutions); recursive=true)
