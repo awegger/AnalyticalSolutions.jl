@@ -1,16 +1,16 @@
-using analyticalSolutions
+using AnalyticalSolutions
 using Documenter
 
-DocMeta.setdocmeta!(analyticalSolutions, :DocTestSetup, :(using analyticalSolutions); recursive=true)
+DocMeta.setdocmeta!(AnalyticalSolutions, :DocTestSetup, :(using AnalyticalSolutions); recursive=true)
 
 makedocs(;
-    modules=[analyticalSolutions],
+    modules=[AnalyticalSolutions],
     authors="Adrian Egger <ae.ethz@gmail.com> and contributors",
-    repo="https://github.com/awegger/analyticalSolutions.jl/blob/{commit}{path}#{line}",
-    sitename="analyticalSolutions.jl",
+    repo="https://github.com/awegger/AnalyticalSolutions.jl/blob/{commit}{path}#{line}",
+    sitename="AnalyticalSolutions.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://awegger.github.io/analyticalSolutions.jl",
+        canonical="https://awegger.github.io/AnalyticalSolutions.jl",
         assets=String[],
     ),
     pages=[
@@ -19,6 +19,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/awegger/analyticalSolutions.jl",
+    repo="github.com/awegger/AnalyticalSolutions.jl",
     devbranch="main",
 )

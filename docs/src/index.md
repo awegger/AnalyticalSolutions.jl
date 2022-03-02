@@ -1,14 +1,14 @@
 ```@meta
-CurrentModule = analyticalSolutions
+CurrentModule = AnalyticalSolutions
 ```
 
-# analyticalSolutions
+# AnalyticalSolutions
 
-Documentation for [analyticalSolutions](https://github.com/awegger/AnalyticalSolutions.jl).
+Documentation for [AnalyticalSolutions](https://github.com/awegger/AnalyticalSolutions.jl).
 
 ```@index
 ```
 
 ```@autodocs
-Modules = [analyticalSolutions]
+Modules = [AnalyticalSolutions]
 ```

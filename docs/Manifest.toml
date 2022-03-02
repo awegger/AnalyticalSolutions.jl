@@ -5,6 +5,11 @@ git-tree-sha1 = "574baf8110975760d391c710b6341da1afa48d8c"
 uuid = "a4c015fc-c6ff-483c-b24f-f7ea428134e9"
 version = "0.0.1"
 
+[[AnalyticalSolutions]]
+path = ".."
+uuid = "6d7f79d4-5daa-46c8-98ac-ddcc30c12d9e"
+version = "0.1.0"
+
 [[Base64]]
 uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 
@@ -90,8 +95,3 @@ uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [[Unicode]]
 uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
-
-[[AnalyticalSolutions]]
-path = ".."
-uuid = "ff1b4f9d-e9e3-48fa-b634-1361bc40cd0d"
-version = "0.1.0"

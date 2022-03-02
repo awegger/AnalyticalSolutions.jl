@@ -1,3 +1,3 @@
 [deps]
+AnalyticalSolutions = "6d7f79d4-5daa-46c8-98ac-ddcc30c12d9e"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-AnalyticalSolutions = "ff1b4f9d-e9e3-48fa-b634-1361bc40cd0d"
