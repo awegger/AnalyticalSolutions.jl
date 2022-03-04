@@ -1,9 +1,10 @@
 module AnalyticalSolutions
 
-export analyticalSolution
-
 include("AbstractTypes.jl")
 include("prototype.jl")
+
+using Reexport #reexports must be placed after includes
+@reexport using .AbstractType #passes thru all exports from specified module
 
 #=
 using .AbstractType
