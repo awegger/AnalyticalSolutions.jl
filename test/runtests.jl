@@ -1,7 +1,9 @@
-#using AnalyticalSolutions
+using AnalyticalSolutions
 using Test
 
 foo(x) = length(x)^2
+
+#println(Err_InputCombo)
 
 @testset verbose = true "Foo Tests" begin
     @testset "Animals" begin
